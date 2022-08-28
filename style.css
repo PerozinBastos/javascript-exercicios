@@ -1,0 +1,29 @@
+body {
+    background-color: blueviolet;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0.1rem 0.5rem rgb(204, 204, 204);
+    padding: 10px;
+    width: 500px;
+    margin: auto;   /*para centralizar */
+}
+
+footer{
+    text-align: center;
+    font-style:italic;
+    font-size: 13px;
+}
+
+div {
+    padding: 10px;
+    text-align: center; 
+}
